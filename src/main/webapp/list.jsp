@@ -10,7 +10,6 @@
 <title>free Member</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
-	<link rel="stylesheet" type="text/css" href="/p3_21900565_1/assets/css/postCss.css">
 	<style>
 		#list {
 			font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -19,7 +18,7 @@
 		}
 		#list td, #list th {
 			border: 1px solid #ddd;
-			padding: 8px;
+
 			text-align:center;
 		}
 		#list tr:nth-child(even){background-color: #f2f2f2;}
